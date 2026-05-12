@@ -13,8 +13,8 @@ O objetivo deste Web Site é ajudar a identificar selos de Produção Sustentáv
 🧠 Alunos:** Alunos do 1ºA (Seu Nome Aqui)
 🌎 Local:** Ibiporã - PR
 
-# Tecnologias Usadas
-⛓️‍💥 ## Neste trabalho, aprendemos a desenvolver um código fonte de:
+# 🪛 Ferramentas
+⛓️‍💥  Neste trabalho, aprendemos a desenvolver um código fonte de:
 🪛 HTML5:** Para a estrutura da lista.
 🪛 CSS3:** Para as cores e alinhamento simples.
 🪛 JavaScript:** Para criar o sistema de busca de selos
