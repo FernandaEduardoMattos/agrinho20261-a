@@ -14,6 +14,7 @@ O objetivo deste Web Site é ajudar a identificar selos de Produção Sustentáv
 🌎 Local:** Ibiporã - PR
 
 # Tecnologias Usadas
+# VS CODE
 ⛓️‍💥 ## Neste trabalho, aprendemos a desenvolver um código fonte de:
 🪛 HTML5:** Para a estrutura da lista.
 🪛 CSS3:** Para as cores e alinhamento simples.
