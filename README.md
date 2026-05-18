@@ -1,5 +1,5 @@
 # 🌎 Guia ON-LINE de Selos Sustentáveis em produtos do Agronegócio brasileiro 🌄
-
+# #Agrinho #Agrinho2026
 # 💻 Objetivo
 
 Este projeto foi desenvolvido na disciplina de Educação Digital: Programação e IA - Profª Fernanda E. Mattos, em Maio de 2026.
