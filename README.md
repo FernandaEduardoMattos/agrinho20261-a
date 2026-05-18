@@ -1,5 +1,5 @@
 # 🌎 Guia ON-LINE de Selos Sustentáveis em produtos do Agronegócio brasileiro 🌄
-# #Agrinho #Agrinho2026
+# #Agrinho #Agrinho2026 Tema: "AGRO forte, futuro sustentável: equilíbrio entre a produção e o Meio Ambiente".
 # 💻 Objetivo
 
 Este projeto foi desenvolvido na disciplina de Educação Digital: Programação e IA - Profª Fernanda E. Mattos, em Maio de 2026.
